@@ -213,6 +213,7 @@ public class MainActivity extends AppCompatActivity {
                     calculation=false;
                 }}
         });
+        //zero
         zero.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
