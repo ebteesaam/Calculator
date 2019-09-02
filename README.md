@@ -1,1 +1,3 @@
 # Calculator
+
+![](img/calculator.png)
